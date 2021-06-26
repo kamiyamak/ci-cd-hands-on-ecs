@@ -33,7 +33,7 @@ Parameters:
   ContainerImage:
     Description: Please enter container image for ECS.
     Type: String
-    Default: 738965884675.dkr.ecr.ap-northeast-1.amazonaws.com/ci-cd-hands-on:node
+    Default: 463594655489.dkr.ecr.ap-northeast-1.amazonaws.com/cicd-handson:latest
 
 Resources:
   ## VPC and Subnets
